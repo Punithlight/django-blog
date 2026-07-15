@@ -1,4 +1,4 @@
-# Django Blog Project — Premium Course (Tech With Rathan)
+# Django Blog Project
  
 This repository contains the source code for the *Django Blogging System* premium course by **Tech With Rathan**. This is a real-world, feature-rich blogging system built to teach practical Django — from models, templates and forms to permissions, dashboards and deployment.
 
